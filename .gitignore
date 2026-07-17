@@ -1,0 +1,6 @@
+# Maven build output
+target/
+dependency-reduced-pom.xml
+
+# macOS metadata
+.DS_Store
